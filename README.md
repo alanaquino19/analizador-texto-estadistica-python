@@ -62,7 +62,7 @@ ESTADÍSTICAS
 Caracteres totales (con espacios): 124
 Caracteres totales (sin espacios): 98
 Total de palabras: 20
-Palabra más larga: estadística (12 caracteres)
+Palabra más larga: 'estadística' (12 caracteres)
 
 Palabras más frecuentes:
 de: 3 ocurrencias
