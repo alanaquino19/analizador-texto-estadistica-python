@@ -74,8 +74,7 @@ análisis: 2 ocurrencias
 
 ## Autor
 
-**Alan Aquino.**
-Estudiante de Ingeniería en Informática.
+**Alan Aquino**, estudiante de Ingeniería en Informática.
 
 
 ---
