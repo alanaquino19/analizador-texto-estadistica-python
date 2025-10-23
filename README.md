@@ -12,7 +12,7 @@ Genera estadísticas detalladas como **número de palabras, caracteres y palabra
 - Detección de la palabra más larga.  
 - Frecuencia de palabras (las 10 más comunes).  
 - Limpieza automática de signos de puntuación.  
-- Interfaz sencilla y totalmente en consola.
+- Interfaz sencilla y en consola.
 
 ---
 
@@ -28,7 +28,7 @@ Genera estadísticas detalladas como **número de palabras, caracteres y palabra
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/alanaquino72/analizador-texto-estadistica-python.git
+   git clone https://github.com/alanaquino19/analizador-texto-estadistica-python.git
    ```
 
 2. Ejecuta el script:
